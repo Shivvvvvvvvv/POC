@@ -12,6 +12,8 @@ Implemented a RESTful API to retrieve the details of the best stories from the H
 ## Instructions
 After downloading the code from this repository, launch Visual Studio 2022, restore all of the packages, and execute the code. Users can execute and test directly from their browser because swagger is configured in the code.
 
+Note: Because the master data is cached, the initial request may take a bit longer than anticipated. It will be quick from the second request on. Data cached for 5 mins and it will be changeable. 
+
 Components Used
 Rate Limiting:   
   To prevent overloading the Hacker News API, implemented rate limiting. Used a Polly library to implement rate limiting policies. 
