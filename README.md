@@ -10,8 +10,7 @@ Implemented a RESTful API to retrieve the details of the best stories from the H
 3. Polly
 
 ## Instructions
-Download the code from this repo and restore all the packages in Visual Studio 2022 then run the code.
-Swagger is configured in the code, from the browser itself user can able to run and test. 
+After downloading the code from this repository, launch Visual Studio 2022, restore all of the packages, and execute the code. Users can execute and test directly from their browser because swa is configured in the code.
 
 Components Used
 Rate Limiting:   
