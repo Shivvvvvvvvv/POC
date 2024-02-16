@@ -26,6 +26,7 @@ Caching:
 ### Enhancements :
 1. Need to move all the hard coded values to appsetting.json like Hacker New API, Rate Limit and cache values.
 2. Need to implement Exception handling.
+3. Need to implement ASP.NET Core Middleware to handle request and response.
    
 
 
